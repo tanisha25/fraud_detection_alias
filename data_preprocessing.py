@@ -1,2 +1,0 @@
-#statement
-print("hello")
